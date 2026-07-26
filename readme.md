@@ -1,1 +1,3 @@
-[Festival.Racing App Release Repo](https://festival.racing/download)
+- [Festival Racing site](https://festival.racing)
+- [Latest app release](https://github.com/antD97/festival.racing-releases/releases/latest)
+- [All releases](https://github.com/antD97/festival.racing-releases/releases)
